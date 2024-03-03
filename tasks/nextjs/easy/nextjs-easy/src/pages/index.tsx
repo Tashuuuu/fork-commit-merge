@@ -3,11 +3,6 @@
 export default function Home() {
   const sampleProducts = [
     // TODO: Create a sample product list with names and prices
-    {name:"PS1",price:'299'},
-    {name:"PS2",price:'299'},
-    {name:"PS3",price:'499'},
-    {name:"PS4",price:'399'},
-    {name:"PS5",price:'499'}
   ];
 
   return (
